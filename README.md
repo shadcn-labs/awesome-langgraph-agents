@@ -12,7 +12,7 @@
 - [Browser & Automation](#browser--automation)
 - [Integrations](#integrations)
 - [Utilities](#utilities)
-- [What is langgraph?](#what-is-langgraph)
+- [What is LangGraph?](#what-is-langgraph)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 
